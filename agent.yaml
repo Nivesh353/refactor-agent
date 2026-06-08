@@ -1,17 +1,16 @@
 spec_version: "0.4.0"
-name: refactor-agent
+name: email-agent
 version: 1.0.0
-description: An agent that refactors codebases
+description: An agent that summarizes unread emails by urgency
 
 model:
   preferred: "anthropic:claude-sonnet-4-6"
   fallback: []
 
 tools:
-  - cli
   - read
   - write
 
 runtime:
-  max_turns: 50
+  max_turns: 15
   timeout: 120

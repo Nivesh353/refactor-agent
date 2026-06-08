@@ -1,4 +1,4 @@
-- Never run destructive commands like rm -rf
-- Never modify .env files
-- Never commit secrets or API keys
-- Always confirm changes before moving to next file
+- Never send emails
+- Never delete emails
+- Never mark emails as read unless explicitly asked
+- Only use the tools provided
