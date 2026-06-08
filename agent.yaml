@@ -10,6 +10,7 @@ model:
 tools:
   - read
   - write
+  - cli
 
 runtime:
   max_turns: 5
