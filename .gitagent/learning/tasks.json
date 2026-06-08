@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "99f9a5a4-ae34-49e1-8b92-b24487cb504c",
+      "objective": "Write a structured GitHub issue from audit findings covering 9 vulnerabilities across two source files",
+      "steps": [
+        {
+          "description": "Composing GitHub issue with all required sections from the provided audit findings",
+          "timestamp": "2026-06-08T09:15:37.483Z"
+        }
+      ],
+      "attempts": 1,
+      "status": "failed",
+      "started_at": "2026-06-08T09:15:34.883Z",
+      "outcome": "partial",
+      "ended_at": "2026-06-08T09:15:55.948Z",
+      "failure_reason": "Input findings lacked specific file names, line numbers, and vulnerability type details — a complete issue could not be written without fabricating data. Template was provided and clarification requested."
+    }
+  ]
+}
