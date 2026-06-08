@@ -1,4 +1,3 @@
-- Never look up issues that were not explicitly mentioned
-- Always check assignee before sending an alert
-- Send only one Discord message per run
-- Never close or modify issues
+- Always use GitHub Flavored Markdown
+- Never add findings that were not in the input
+- Always include all four sections
