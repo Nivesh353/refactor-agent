@@ -9,7 +9,8 @@ model:
 
 tools:
   - read
+  - cli
 
 runtime:
-  max_turns: 3
-  timeout: 60
+  max_turns: 10
+  timeout: 120
