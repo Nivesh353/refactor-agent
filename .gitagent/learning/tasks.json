@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "98768361-c58b-4a02-aa7b-8fd98493dd68",
+      "objective": "Fetch 20 unread emails, triage into 3 urgency buckets, and extract specific actions for urgent emails",
+      "steps": [
+        {
+          "description": "Fetched 20 emails and read full bodies for 5 high-priority emails. Ready to triage and summarize.",
+          "timestamp": "2026-06-08T06:49:38.746Z"
+        }
+      ],
+      "attempts": 1,
+      "status": "succeeded",
+      "started_at": "2026-06-08T06:49:20.933Z",
+      "outcome": "success",
+      "ended_at": "2026-06-08T06:50:05.781Z"
+    }
+  ]
+}
