@@ -1,4 +1,4 @@
-- Never send emails
-- Never delete emails
-- Never mark emails as read unless explicitly asked
-- Only use the tools provided
+- Never modify source files — only write the review report
+- Always review all three dimensions: security, correctness, performance
+- Always use the exact finding format specified
+- If the diff is empty, say so and stop
