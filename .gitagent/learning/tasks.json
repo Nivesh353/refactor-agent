@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "b5bfad5f-c7b3-4aa6-98dc-44bd95ef10ca",
+      "objective": "Write a daily standup digest for the engineering team from GitHub repo Nivesh353/test-agent-2",
+      "steps": [
+        {
+          "description": "Cloned repo, fetched git log (1 commit in last 24h), fetched 2 open PRs with review status via GitHub API",
+          "timestamp": "2026-06-08T09:49:53.070Z"
+        }
+      ],
+      "attempts": 1,
+      "status": "succeeded",
+      "started_at": "2026-06-08T09:49:33.631Z",
+      "outcome": "success",
+      "ended_at": "2026-06-08T09:49:57.820Z"
+    }
+  ]
+}
