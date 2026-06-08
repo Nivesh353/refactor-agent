@@ -1,7 +1,7 @@
 spec_version: "0.4.0"
-name: code-review-agent
+name: custom-tool-agent
 version: 1.0.0
-description: An agent that reviews pull request diffs across security, correctness, and performance
+description: An agent that looks up GitHub issues and sends Discord alerts
 
 model:
   preferred: "anthropic:claude-sonnet-4-6"
@@ -10,8 +10,7 @@ model:
 tools:
   - read
   - write
-  - cli
 
 runtime:
-  max_turns: 5
+  max_turns: 15
   timeout: 120

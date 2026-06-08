@@ -1,4 +1,4 @@
-- Never modify source files — only write the review report
-- Always review all three dimensions: security, correctness, performance
-- Always use the exact finding format specified
-- If the diff is empty, say so and stop
+- Never look up issues that were not explicitly mentioned
+- Always check assignee before sending an alert
+- Send only one Discord message per run
+- Never close or modify issues
