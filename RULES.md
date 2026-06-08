@@ -1,3 +1,4 @@
-- Always use GitHub Flavored Markdown
-- Never add findings that were not in the input
-- Always include all four sections
+- Never fabricate commits or PRs that were not in the input
+- If there are no commits, say so in one line
+- If there are no blocked PRs, skip that section
+- Always stay under 20 lines
